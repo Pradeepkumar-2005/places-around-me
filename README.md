@@ -363,8 +363,11 @@ nagar.html
 ## Abropets :
 ![abro](https://github.com/jabezs2005/places-around-me/assets/147473463/59916da6-a0c2-41fd-b213-b65edf84a65a)
 
+
+
 ## Vallalar Nagar :
 ![vallalar](https://github.com/jabezs2005/places-around-me/assets/147473463/e143ad8d-479e-4ed3-8656-6ed93ea91e48)
+
 
 
 ### Result:
